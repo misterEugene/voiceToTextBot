@@ -1,0 +1,4 @@
+node_modules
+materials
+dist
+.env
